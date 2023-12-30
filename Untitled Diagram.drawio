@@ -1,9 +1,44 @@
-<mxfile host="app.diagrams.net" modified="2023-12-30T02:39:46.677Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" version="22.1.16" etag="ErrjuGOcJ6mg09ZW5Utl" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-30T02:53:09.614Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="VmeWHIvxZYjcqhX9fhBF" version="22.1.16" type="github">
   <diagram name="Page-1" id="2u9pE-MmX1JPQdljEYWo">
-    <mxGraphModel>
+    <mxGraphModel dx="2450" dy="541" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1400" pageHeight="850" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="dGEr_c4MNiMGvfdEpYcY-1" value="End" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="1240" y="250" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="dGEr_c4MNiMGvfdEpYcY-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="dGEr_c4MNiMGvfdEpYcY-2" target="dGEr_c4MNiMGvfdEpYcY-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dGEr_c4MNiMGvfdEpYcY-2" value="Start" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="-40" y="250" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="dGEr_c4MNiMGvfdEpYcY-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="dGEr_c4MNiMGvfdEpYcY-5" target="dGEr_c4MNiMGvfdEpYcY-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dGEr_c4MNiMGvfdEpYcY-5" value="Pengumoulan data&amp;nbsp; laporan keuangan PT Telkom 2016 - 2022&lt;br&gt;(&amp;nbsp;https://www.telkom.co.id/sites/about-telkom/id_ID/page/ir-laporan-tahunan-150)&amp;nbsp;&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="170" y="210" width="200" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="dGEr_c4MNiMGvfdEpYcY-12" value="Kesimpulan dan rekomendasi&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="950" y="210" width="200" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="dGEr_c4MNiMGvfdEpYcY-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="dGEr_c4MNiMGvfdEpYcY-13" target="dGEr_c4MNiMGvfdEpYcY-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dGEr_c4MNiMGvfdEpYcY-13" value="Penyusunan laporan penelitian" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="680" y="210" width="200" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="dGEr_c4MNiMGvfdEpYcY-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="dGEr_c4MNiMGvfdEpYcY-14" target="dGEr_c4MNiMGvfdEpYcY-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dGEr_c4MNiMGvfdEpYcY-14" value="Kelola data dengan rumus rasio&amp;nbsp;&lt;br&gt;(Profitbilitas, Likuiditas)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="430" y="210" width="200" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="dGEr_c4MNiMGvfdEpYcY-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="dGEr_c4MNiMGvfdEpYcY-12">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1240" y="280" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
